@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Torah Classes</title>
+        <link>http://bais-mordechai.com/</link>
+        <atom:link href="http://bais-mordechai.com/bais-mordechai_rss.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <copyright>© 2012 Marty Goodman</copyright>
+        <itunes:subtitle>Torah Classes</itunes:subtitle>
+        <itunes:author>Marty Goodman</itunes:author>
+        <itunes:summary>Torah classes covering the weekly Torah Portion in depth as well as classes on various topics in Judaism such as Davening, The Book of Psalms, and the laws concerning blessings on food and drink. </itunes:summary>
+        <itunes:category text="Education">
+        <itunes:category text="Higher Education"/>
+        </itunes:category>
+        <description>Torah classes covering the weekly Torah Portion in depth 
+        as well as classes on various topics in Judaism such as Davening, The Book of Psalms,
+        and the laws concerning blessings on food and drink.</description>
+        <itunes:owner>
+            <itunes:name>Marty Goodman</itunes:name>
+            <itunes:email>Marty@bais-mordechai.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://bais-mordechai.com/images/Marty_Goodman_Podcast.jpg"/>
+        <itunes:explicit>no</itunes:explicit> <item>
+            <title>Naso 3</title>
+            <itunes:author>Marty Goodman</itunes:author>
+            <itunes:subtitle>Chp. 7 verses 30 - 89: Continues with the sacrifices and gifts brought by the princes at the dedication of the Alter. Chp. 8 verses 1-2 begin the portion of Beha'alotecha.</itunes:subtitle>
+            <itunes:summary>Chp. 7 verses 30 - 89: Continues with the sacrifices and gifts brought by the princes at the dedication of the Alter. Chp. 8 verses 1-2 begin the portion of Beha'alotecha.</itunes:summary>
+            <enclosure url="http://bais-mordechai.com/mp3/Naso%203.mp3"
+            length="2928" type="audio/x-m4a"/>
+            <guid>http://bais-mordechai.com/mp3/Naso%203.mp3</guid>
+            <pubDate>Sun, 12 May 2013 12:13:50 -0400</pubDate>
+            <itunes:duration>48:48</itunes:duration>
+            <itunes:keywords>Torah, Shiurim, Torah Classes, Parashah, Chumash</itunes:keywords>         
+        </item> <item>
+            <title>Naso 2b</title>
+            <itunes:author>Marty Goodman</itunes:author>
+            <itunes:subtitle>Chp. 6 verses 26-27 - Chp. 7 verse 29: Chp. 6 concludes the priestly blessings. Chp. 7, after Moshe erects the Mishkan, the Torah describes the sacrifices and gifts brought by each of the princes on the twelve days of the consecration of the Alter.  </itunes:subtitle>
+            <itunes:summary>Chp. 6 verses 26-27 - Chp. 7 verse 29: Chp. 6 concludes the priestly blessings. Chp. 7, after Moshe erects the Mishkan, the Torah describes the sacrifices and gifts brought by each of the princes on the twelve days of the consecration of the Alter.  </itunes:summary>
+            <enclosure url="http://bais-mordechai.com/mp3/Naso%202b.mp3"
+            length="2295" type="audio/x-m4a"/>
+            <guid>http://bais-mordechai.com/mp3/Naso%202b.mp3</guid>
+            <pubDate>Sun, 12 May 2013 12:13:52 -0400</pubDate>
+            <itunes:duration>38:15</itunes:duration>
+            <itunes:keywords>Torah, Shiurim, Torah Classes, Parashah, Chumash</itunes:keywords>         
+        </item> <item>
+            <title>Naso 2a</title>
+            <itunes:author>Marty Goodman</itunes:author>
+            <itunes:subtitle>Chp. 6 verses 1 - 25: Chapter describes the laws of the Nazir; one who refrains from wine, cutting his hair, and contact with the dead, and all the laws connected with him. Continues with the priestly blessings. </itunes:subtitle>
+            <itunes:summary>Chp. 6 verses 1 - 25: Chapter describes the laws of the Nazir; one who refrains from wine, cutting his hair, and contact with the dead, and all the laws connected with him. Continues with the priestly blessings. </itunes:summary>
+            <enclosure url="http://bais-mordechai.com/mp3/Naso%202a.mp3"
+            length="2943" type="audio/x-m4a"/>
+            <guid>http://bais-mordechai.com/mp3/Naso%202a.mp3</guid>
+            <pubDate>Sun, 12 May 2013 12:13:54 -0400</pubDate>
+            <itunes:duration>49:03</itunes:duration>
+            <itunes:keywords>Torah, Shiurim, Torah Classes, Parashah, Chumash</itunes:keywords>         
+        </item> <item>
+            <title>Naso 1b</title>
+            <itunes:author>Marty Goodman</itunes:author>
+            <itunes:subtitle>Chp. 5 verses 10 - 31: Continues with the laws of first fruits, and Terumah which the owner gives to which ever priest he chooses. Next is the law of the Sotah. She is the woman who is accused by her husband of secluding herself with another man after being warned in front of witnesses not to do so. She is taken to the Temple where the ritual of the "bitter waters are performed."(Sotah)</itunes:subtitle>
+            <itunes:summary>Chp. 5 verses 10 - 31: Continues with the laws of first fruits, and Terumah which the owner gives to which ever priest he chooses. Next is the law of the Sotah. She is the woman who is accused by her husband of secluding herself with another man after being warned in front of witnesses not to do so. She is taken to the Temple where the ritual of the "bitter waters are performed."(Sotah)</itunes:summary>
+            <enclosure url="http://bais-mordechai.com/mp3/Naso%201b.mp3"
+            length="2028" type="audio/x-m4a"/>
+            <guid>http://bais-mordechai.com/mp3/Naso%201b.mp3</guid>
+            <pubDate>Sun, 12 May 2013 12:13:56 -0400</pubDate>
+            <itunes:duration>33:48</itunes:duration>
+            <itunes:keywords>Torah, Shiurim, Torah Classes, Parashah, Chumash</itunes:keywords>         
+        </item> <item>
+            <title>Naso 1a</title>
+            <itunes:author>Marty Goodman</itunes:author>
+            <itunes:subtitle>Chp. 4 verse 21 - chp. 5 verse 9: Introduction, begins with the count of the family of Gershon, and a description of their duties in the Mishkan. Continues with the count of the family of Merari, and a description of their duties in the Mishkan. Then a total count of all the Levites. Chp. 5, now that the three camps were defined, some of the laws of defilement of the camps are discussed. Continues with one who steals and swears falsley, and the fifth that he must pay. Then regarding the property stolen from a convert which is given to the priests. </itunes:subtitle>
+            <itunes:summary>Chp. 4 verse 21 - chp. 5 verse 9: Introduction, begins with the count of the family of Gershon, and a description of their duties in the Mishkan. Continues with the count of the family of Merari, and a description of their duties in the Mishkan. Then a total count of all the Levites. Chp. 5, now that the three camps were defined, some of the laws of defilement of the camps are discussed. Continues with one who steals and swears falsley, and the fifth that he must pay. Then regarding the property stolen from a convert which is given to the priests. </itunes:summary>
+            <enclosure url="http://bais-mordechai.com/mp3/Naso%201a.mp3"
+            length="2954" type="audio/x-m4a"/>
+            <guid>http://bais-mordechai.com/mp3/Naso%201a.mp3</guid>
+            <pubDate>Sun, 12 May 2013 12:13:58 -0400</pubDate>
+            <itunes:duration>49:14</itunes:duration>
+            <itunes:keywords>Torah, Shiurim, Torah Classes, Parashah, Chumash</itunes:keywords>         
+        </item></channel>
+	</rss>

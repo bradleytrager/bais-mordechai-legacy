@@ -1,0 +1,31 @@
+User-agent: * 
+Disallow: /_db_backups/
+Disallow: /cgi/
+Disallow: /mp3/
+Disallow: /fonts/
+Disallow: /protected/
+Disallow: /SpryAssets/
+Disallow: /download.php?
+Disallow: /download.php
+Disallow: /download.php?pname=
+Disallow: /DownloadList.php
+Disallow: /DownloadList.php?
+Disallow: /DownloadList.php?*
+Disallow: /DownloadList.php*
+Disallow: /DownloadList.php?pname=Mishpatim
+Disallow: /DownloadList.php?pname=Vayigash
+Disallow: /DownloadList.php?pname=Vayelech
+Disallow: /DownloadList.php?%20pname=V'Zot%20HaBerachah
+Disallow: /DownloadList.php?%20pname=Ki%20Teitzei
+Disallow: /DownloadList.php?%20pname=Ki%20Tisa
+Disallow: /DownloadList.php?%20pname=Shemini
+Disallow: /DownloadList.php?%20pname=Toldot
+Disallow: /DownloadList.php?%20pname=Pekudei
+Disallow: /DownloadList.php?%20pname=Naso
+Disallow: /DownloadList.php?%20pname=Mishpatim
+Disallow: /DownloadList.php?%20pname=Tetzaveh
+Disallow: /DownloadList.php?%20pname=Mikeitz
+Disallow: /DownloadList.php?%20pname=Behar
+Disallow: /ParashaList.php?%20cname=Devarim
+
+ 

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <script src="http://code.jquery.com/jquery-latest.js"></script>
+<script>
+
+$(document).ready(function(){
+$.getJSON('json1.js', function(data) {
+  var items = [];
+
+  $.each(data, function(key, val) {
+    items.push('<li id="' + key + '">' + val + '</li>');
+  });
+
+  $('<ul/>', {
+    'class': 'my-new-list',
+    html: items.join('')
+  }).appendTo('body');
+});
+});
+$(document).ready(function(){
+  $("button").click(function(){
+    $.getJSON("json.js",function(result){
+      $.each(result, function(i, field){
+        $("div").append(field + " ");
+      });
+    });
+  });
+});
+</script>
+</head>
+<body>
+
+<button>Get JSON data</button>
+<div></div>
+
+</body>
+</html>

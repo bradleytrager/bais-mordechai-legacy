@@ -1,0 +1,94 @@
+ul.MenuBarVertical
+{
+	margin: 0;
+	padding: 0px 0;
+	list-style-type: none;
+	font-size:20px;
+	cursor: default;
+	
+box-shadow: 0 3px 10px #888888;
+width:130px;
+}
+
+
+ul.MenuBarActive
+{
+	z-index: 1000;
+}
+
+ul.MenuBarVertical li
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	font-size: 100%;
+	position: relative;
+	text-align: left;
+	cursor: pointer;
+
+	width:  130px;
+border-bottom: 1px solid #CCCCCC;
+border-right: 1px solid #CCCCCC;
+}
+
+ul.MenuBarVertical ul
+{
+	box-shadow: 0 3px 10px #888888;
+	padding: 0;
+	list-style-type: none;
+	font-size: 80%;
+	position: absolute;
+	z-index: 1020;
+	cursor: default;
+	width:  120px;
+	display:none;
+	//margin: -5% 0 0 95%;
+	//padding: 0;
+	//list-style-type: none;
+	//font-size: 100%;
+	top: 0;
+}
+ul.MenuBarVertical ul.MenuBarSubmenuVisible
+{
+	left: 0;
+}
+
+ul.MenuBarVertical ul li
+{
+	 width: 120px;
+}
+
+
+ul.MenuBarVertical ul
+{
+	//border: 1px solid #CCC;
+}
+
+ul.MenuBarVertical a
+{
+	display: block;
+	cursor: pointer;
+	background-color:#f5f5f5;
+	
+	
+	padding: 0.5em 0.75em;
+	color: #333;
+	text-decoration: none;
+}
+ul.MenuBarVertical a.MenuBarItemSubmenu{
+background-image: url(../images/SpryMenuBarRight.gif);
+background-repeat:no-repeat;
+background-position:95% 50%;
+
+}
+ul.MenuBarVertical a:hover, ul.MenuBarVertical a:focus
+{
+	background-color: #eee;
+	
+}
+
+ul.MenuBarVertical a.MenuBarItemHover, ul.MenuBarVertical a.MenuBarItemSubmenuHover, ul.MenuBarVertical a.MenuBarSubmenuVisible
+{
+	background-color:  #eee;
+	
+}

@@ -1,0 +1,60 @@
+@charset "utf-8";
+body {
+	font-family: 'OFL Sorts Mill Goudy TT';
+	font-size:17px;
+	background-color:#4e5869;
+	
+	color: #333333;
+}
+
+
+.header h1{
+	font-family:"Trajan Pro";
+	font-size:48px;
+	text-shadow: 0px 1px 4px rgba(0,0,0, 1);
+	
+}
+
+
+.header {
+	text-shadow: 0px 1px 3px rgba(0,0,0, 1);
+	background-image:url(http://bais-mordechai.com/images/bluegrad.png);
+	background-repeat:repeat-x;
+	background-size:auto 100%;
+	background-color:#718D9B;
+	color:#F9F9FB;
+	font-family:"Times New Roman", Times, serif;
+}
+.top_right_header{
+	text-shadow: 0px 1px 3px rgba(0,0,0, 1);
+	text-align:right;
+	
+	color:#F9F9FB;
+	font-family:"Times New Roman", Times, serif;
+}
+
+
+	
+	.boxed{
+background-image:none;
+border: 1px solid #CCCCCC;
+background-color:#f5f5f5;
+box-shadow: 0 8px 10px #888888;
+}
+	
+	
+
+.content{
+	background-color:#FFF;
+
+}
+.text{
+	font-size:20px;
+}
+.top_menu{
+	background-color:#CCC;
+}
+input{
+	
+	font-size:16px;
+}
