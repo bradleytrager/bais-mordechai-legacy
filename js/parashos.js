@@ -4,7 +4,8 @@ var chumashim = [
 	{"name":"Vayikra", "dir":"mp3/NC/"},
 	{"name":"Bamidbar", "dir":"mp3/NC/"},
 	{"name":"Devarim", "dir":"mp3/NC/"},
-	{"name":"Leading Services", "dir":"mp3/chazanus/"}
+	{"name":"Leading Services", "dir":"mp3/chazanus/"},
+	{"name":"My Thoughts", "dir":"mp3/thoughts/"}
 ];
 var parashos = {
 	"Bereishit": ["Bereishit",
@@ -66,5 +67,6 @@ var parashos = {
 		"Haazinu",
 		"V'Zot HaBerachah"
 	],
-	"Leading Services":["Leading Services"]
+	"Leading Services":["Leading Services"],
+	"My Thoughts":["My Thoughts"]
 };

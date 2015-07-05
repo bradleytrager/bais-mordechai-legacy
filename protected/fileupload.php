@@ -156,7 +156,7 @@ enctype="multipart/form-data" onsubmit="return validateForm()">
       </select></td>
   </tr> 
     
-      <tr data-bind="visible:selectedSeries() != 'mp3/chazanus/'">
+      <tr data-bind="visible:selectedSeries() == 'mp3/NC/'">
   <td>Parashah:</td>
   <td><select name="parashah" id="parashah" data-bind="options:displayParashos">
       </select></td>
@@ -200,7 +200,11 @@ $(function(){
 });
 	function viewModel(){
 		var self = this;
-		self.series = ko.observableArray([{value:'mp3/NC/', label:'New Series'}, {value:'mp3/chazanus/', label:'Leading Services'}]);
+		self.series = ko.observableArray([
+			{value:'mp3/NC/', label:'New Series'}, 
+			{value:'mp3/chazanus/', label:'Leading Services'},
+			{value:'mp3/thoughts/', label:'My Thoughts'}
+		]);
 		
 		self.chumashim = chumashim;
 		self.selectedChumash = ko.observable('Bereishit');

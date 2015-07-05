@@ -258,8 +258,9 @@
 									<li><a
 										href="http://bais-mordechai.com/shiurlist.php?type=The%20Laws%20of%20Brochos&class=type">Laws
 											of Brochos</a></li>
+									<li><a
+										href="http://bais-mordechai.com/shiurlist.php?type=My%20Thoughts&class=type">My Thoughts</a></li>
 								</ul></li>
-
 						</ul></li>
 						<li class="divider-vertical"></li>
 					<li><a href="">Whats New</a></li>

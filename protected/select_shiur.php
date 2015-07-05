@@ -82,6 +82,7 @@ enctype="multipart/form-data">
         <option value="Tehillim">Tehillim</option>
         <option value="The Laws of Brochos">The Laws of Brochos</option>
         <option value="Leading Services">Leading Services</option>
+        <option value="My Thoughts">My Thoughts</option>
       </select></td>
   </tr> 
     
