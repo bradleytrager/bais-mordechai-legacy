@@ -35,7 +35,7 @@ function printShiur($title, $filename, $description, $dir){
 				'</p>';
 }
 
-function ListByDate($headline, $timespan = 1209600){
+function ListByDate($headline = '', $timespan = 1209600){
 
 require '../mysql.php';
 
@@ -105,7 +105,7 @@ while ($row = mysql_fetch_array($result)){
 
 //print out shiurim 
 
-printHeadline('Classes on '.$type);
+printHeadline($type);
   for ($i=0; $i < sizeof($shiurim['dir']); $i++){
 
 
@@ -150,12 +150,12 @@ while ($row = mysql_fetch_array($result)){
 //print out shiurim according to series
 $currentSeries = $shiurim['dir'][0];
 
-printHeadline('Classes for Parashas '.$parashah.' '.$shiurim['date'][0]);
+printHeadline('Parashas '.$parashah.' '.$shiurim['date'][0]);
   for ($i=0; $i < sizeof($shiurim['dir']); $i++){
 	  
 	  if ($shiurim['dir'][$i] != $currentSeries){
 	  $currentSeries = $shiurim['dir'][$i];
-	  printNewHeadline('Classes for Parashas '.$parashah.' '.$shiurim['date'][$i]);
+	  printNewHeadline('Parashas '.$parashah.' '.$shiurim['date'][$i]);
   }
 
 printShiur($shiurim['title'][$i], $shiurim['filename'][$i], $shiurim['description'][$i], $shiurim['dir'][$i]);

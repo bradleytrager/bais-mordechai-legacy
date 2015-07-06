@@ -36,7 +36,7 @@
 				<?php 
 				include_once 'printDL.php'; 
 				include_once 'get_parashah.php'; 
-				ListByDate("Content Added on ");
+				ListByDate();
 				?>
 			</div>
 		</div>
